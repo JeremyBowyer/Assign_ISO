@@ -1,6 +1,9 @@
 ## Assign ISO codes to DF
 assign_iso <- function(df) {
 	
+	# Load ISO DF
+	ISO <- read.csv("https://github.com/JeremyBowyer/Assign_ISO/raw/master/ISO%20Country%20Codes.csv")
+	
 	# create temporary data frame
 	tempdf <- df
 	columnorder <- c("Country", names(tempdf[-grep("Country", names(tempdf))]))
