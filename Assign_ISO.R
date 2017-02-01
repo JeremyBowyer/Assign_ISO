@@ -3,6 +3,7 @@ assign_iso <- function(df) {
 	
 	# Load ISO DF
 	ISO <- read.csv("https://github.com/JeremyBowyer/Assign_ISO/raw/master/ISO%20Country%20Codes.csv")
+	ISO[, grep("Name",names(ISO))] <- apply(ISO[, grep("Name",names(ISO))], 2, tolower)
 	
 	# create temporary data frame
 	tempdf <- df
