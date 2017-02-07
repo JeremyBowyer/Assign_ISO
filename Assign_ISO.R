@@ -10,6 +10,7 @@ assign_iso <- function(df) {
 	columnorder <- c("Country", names(tempdf[-grep("Country", names(tempdf))]))
 	tempdf <- tempdf[, columnorder]
 	tempdf$Country <- tolower(tempdf$Country)
+	tempdf$Country <- trimws(tempdf$Country)
 	
 	# merge tempdf with iso on multiple possible names
 	suppressWarnings(tempdf_iso <- merge(tempdf, ISO[,c("Name.1", "Code")], by.x = "Country", by.y = "Name.1", all.x = TRUE))
