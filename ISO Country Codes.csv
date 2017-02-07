@@ -50,7 +50,7 @@ Cocos (Keeling) Islands,,,,,,,,,,CC,
 Colombia,,,,,,,,,,CO,EM
 Comoros,Comoro Islands,,,,,,,,,KM,
 Congo,"Congo, Rep. Of","Congo, Rep.",Republic of Congo,"Congo, Republic Of",congo (republic),"congo, republic",congo 'brazzaville',,,CG,
-"Congo, the Democratic Republic of the","Congo, Dem. R.","Congo, Dem. Rep.",DR Congo (Zaire),Democratic Republic of Congo,congo (democratic republic of the),"congo, d.r.",congo (d. r.),zaire (congo kinshasa),Congo-Kinshasa,CD,
+"Congo, the Democratic Republic of the","Congo, Dem. R.","Congo, Dem. Rep.",DR Congo (Zaire),Democratic Republic of Congo,congo (democratic republic of the),"congo, d.r.",congo (d. r.),zaire (congo kinshasa),CongoKinshasa,CD,
 Cook Islands,,,,,,,,,,CK,
 Costa Rica,Costa Rica ,,,,,,,,,CR,
 Côte d'Ivoire,Cote d'Ivoire,CÃ´te d'Ivoire ,Ivory Coast,cã´te d'ivoire,,,,,,CI,
@@ -102,7 +102,7 @@ Hong Kong,"Hong Kong SAR, China",Hong Kong SAR,"Hong Kong, China (SAR)",Hong.Kon
 Hungary,,,,,,,,,,HU,EM
 Iceland,,,,,,,,,,IS,
 India,,,,,,,,,,IN,EM
-Indonesia,,,,,,,,,,ID,EM
+Indonesia,indonesia (java before 1880),,,,,,,,,ID,EM
 "Iran, Islamic Republic of","Iran, Islamic Rep.",Islamic Republic of Iran,Iran,iran (islamic republic of),,,,,,IR,
 Iraq,,,,,,,,,,IQ,
 Ireland,,,,,,,,,,IE,DM
@@ -117,7 +117,7 @@ Kazakhstan,,,,,,,,,,KZ,
 Kenya,,,,,,,,,,KE,
 Kiribati,,,,,,,,,,KI,
 "Korea, Democratic People's Republic of",North Korea,"Korea, Dem. Rep.","Korea, North","Korea, Dem. People's Rep.",,,,,,KP,
-"Korea, Republic of",South Korea,"Korea, Rep.","Korea, South",Korea (south),Korea,Korea (Republic Of),South.Korea,"Korea, Rep",,KR,EM
+"Korea, Republic of",South Korea,"Korea, Rep.","Korea, South",Korea (south),Korea,Korea (Republic Of),South.Korea,"Korea, Rep",s  korea,KR,EM
 Kuwait,,,,,,,,,,KW,
 Kyrgyzstan,Kyrgyz Republic,Kyrgyz Republic ,,,,,,,,KG,
 Lao People's Democratic Republic,Laos,Lao PDR,Lao P.D.R,,,,,,,LA,
@@ -157,7 +157,7 @@ Nauru,,,,,,,,,,NR,
 Nepal,,,,,,,,,,NP,
 Netherlands,The Netherlands,,,,,,,,,NL,DM
 New Caledonia,,,,,,,,,,NC,
-New Zealand,New.Zealand,,,,,,,,,NZ,DM
+New Zealand,New.Zealand,n  zealand,,,,,,,,NZ,DM
 Nicaragua,Nicaragua ,,,,,,,,,NI,
 Niger,,,,,,,,,,NE,
 Nigeria,,,,,,,,,,NG,
@@ -168,7 +168,7 @@ Norway,,,,,,,,,,NO,DM
 Oman,,,,,,,,,,OM,
 Pakistan,,,,,,,,,,PK,
 Palau,,,,,,,,,,PW,
-"Palestine, State of",West Bank and Gaza,,,,,,,,,PS,
+"Palestine, State of",West Bank and Gaza,w  bank & gaza,,,,,,,,PS,
 Panama,Panama ,,,,,,,,,PA,
 Papua New Guinea,Pap. New Guinea,,,,,,,,,PG,
 Paraguay,Paraguay ,,,,,,,,,PY,
@@ -224,7 +224,7 @@ Timor-Leste,Democratic Republic of Timor-Leste,TimorLeste,,,,,,,,TL,
 Togo,,,,,,,,,,TG,
 Tokelau,,,,,,,,,,TK,
 Tonga,,,,,,,,,,TO,
-Trinidad and Tobago,Trinidad & Tob.,trinadad,trinidad,,,,,,,TT,
+Trinidad and Tobago,Trinidad & Tob.,trinadad,trinidad,t  & tobago,,,,,,TT,
 Tunisia,,,,,,,,,,TN,
 Turkey,,,,,,,,,,TR,EM
 Turkmenistan,,,,,,,,,,TM,
