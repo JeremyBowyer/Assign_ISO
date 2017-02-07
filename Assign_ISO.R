@@ -22,9 +22,10 @@ assign_iso <- function(df) {
 	suppressWarnings(tempdf_iso <- merge(tempdf_iso, ISO[,c("Name.7", "Code")], by.x = "Country", by.y = "Name.7", all.x = TRUE))
 	suppressWarnings(tempdf_iso <- merge(tempdf_iso, ISO[,c("Name.8", "Code")], by.x = "Country", by.y = "Name.8", all.x = TRUE))
 	suppressWarnings(tempdf_iso <- merge(tempdf_iso, ISO[,c("Name.9", "Code")], by.x = "Country", by.y = "Name.9", all.x = TRUE))
+	suppressWarnings(tempdf_iso <- merge(tempdf_iso, ISO[,c("Name.10", "Code")], by.x = "Country", by.y = "Name.10", all.x = TRUE))
 	
 	# rename columns
-	isonames <- c("Name1", "Name2", "Name3", "Name4", "Name5", "Name6", "Name7", "Name8", "Name9")
+	isonames <- c("Name1", "Name2", "Name3", "Name4", "Name5", "Name6", "Name7", "Name8", "Name9", "Name10")
 	names(tempdf_iso) <- c(names(tempdf),isonames)
 	
 	# find first non-NA code
