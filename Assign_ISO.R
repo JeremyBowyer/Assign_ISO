@@ -1,5 +1,7 @@
 ## Assign ISO codes to DF
 assign_iso <- function(df) {
+	require(quantmod)
+	
 	
 	# Load ISO DF
 	ISO <- read.csv("https://github.com/JeremyBowyer/Assign_ISO/raw/master/ISO%20Country%20Codes.csv")
