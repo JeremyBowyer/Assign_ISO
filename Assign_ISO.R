@@ -1,6 +1,6 @@
 ## Assign ISO codes to DF
 assign_iso <- function(df) {
-	require(quantmod)
+	require(zoo)
 	
 	
 	# Load ISO DF
