@@ -24,7 +24,7 @@ def assign_iso(df, countryCol):
     df.drop("mergeCol", axis=1, inplace=True)
     
     # Find first valid match, throw out all others
-    codeCols = [col for col in df.columns if re.compile("Code__").match(col)]
+    codeCols = [col for col in df.columns if re.compile("Code").match(col)]
     df['ISO'] = df[codeCols].apply(lambda row: next((val for val in list(row) if val == val), np.nan), axis=1)
 
     # Drop other code columns
