@@ -4,7 +4,8 @@ import numpy as np
 isoCodes = pd.read_csv('https://raw.githubusercontent.com/JeremyBowyer/Assign_ISO/master/ISO%20Country%20Codes.csv')
 
 def normalize_col(series):
-    return series.str.lower()
+    s = series.str.lower().str.strip()
+    return s
 
 def assign_iso(df, countryCol):
 
