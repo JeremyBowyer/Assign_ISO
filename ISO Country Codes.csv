@@ -1,5 +1,5 @@
 Name.1,Name.2,Name.3,Name.4,Name.5,Name.6,Name.7,Name.8,Name.9,Name.10,Name.11,Code,Development
-Afghanistan,Islamic Republic of Afghanistan,,,,,,,,,,AF,
+Afghanistan,Islamic Republic of Afghanistan,"Afghanistan, Islamic Republic of",,,,,,,,,AF,
 Åland Islands,,,,,,,,,,,AX,
 Albania,,,,,,,,,,,AL,
 Algeria,,,,,,,,,,,DZ,
@@ -10,13 +10,13 @@ Anguilla,,,,,,,,,,,AI,
 Antarctica,,,,,,,,,,,AQ,
 Antigua and Barbuda,antigua & barbuda,,,,,,,,,,AG,
 Argentina,,,,,,,,,,,AR,
-Armenia,,,,,,,,,,,AM,
+Armenia,"Armenia, Republic of",,,,,,,,,,AM,
 Aruba,,,,,,,,,,,AW,
 Australia,,,,,,,,,,,AU,DM
 Austria,,,,,,,,,,,AT,DM
-Azerbaijan,,,,,,,,,,,AZ,
+Azerbaijan,"Azerbaijan, Republic of",,,,,,,,,,AZ,
 Bahamas,The Bahamas,"Bahamas, The",,,,,,,,,BS,
-Bahrain,,,,,,,,,,,BH,
+Bahrain,"Bahrain, Kingdom of",,,,,,,,,,BH,
 Bangladesh,Bangladesh ,,,,,,,,,,BD,
 Barbados,,,,,,,,,,,BB,
 Belarus,,,,,,,,,,,BY,
@@ -44,7 +44,7 @@ Cayman Islands,,,,,,,,,,,KY,
 Central African Republic,Central Afr. Rep.,Central African Rep.,centr  afr  rep,,,,,,,,CF,
 Chad,,,,,,,,,,,TD,
 Chile,,,,,,,,,,,CL,EM
-China,,,,,,,,,,,CN,EM
+China,"China, P.R.: Mainland",,,,,,,,,,CN,EM
 Christmas Island,,,,,,,,,,,CX,
 Cocos (Keeling) Islands,,,,,,,,,,,CC,
 Colombia,,,,,,,,,,,CO,EM
@@ -98,7 +98,7 @@ Haiti,haïti,,,,,,,,,,HT,
 Heard Island and McDonald Mcdonald Islands,,,,,,,,,,,HM,
 Holy See (Vatican City State),,,,,,,,,,,VA,
 Honduras,Honduras ,,,,,,,,,,HN,
-Hong Kong,"Hong Kong SAR, China",Hong Kong SAR,"Hong Kong, China (SAR)",Hong.Kong,"China, Hong Kong SAR",,,,,,HK,DM
+Hong Kong,"Hong Kong SAR, China",Hong Kong SAR,"Hong Kong, China (SAR)",Hong.Kong,"China, Hong Kong SAR","China, P.R.: Hong Kong",,,,,HK,DM
 Hungary,,,,,,,,,,,HU,EM
 Iceland,,,,,,,,,,,IS,
 India,,,,,,,,,,,IN,EM
@@ -239,13 +239,13 @@ United States Minor Outlying Islands,,,,,,,,,,,UM,
 Uruguay,Uruguay ,,,,,,,,,,UY,
 Uzbekistan,,,,,,,,,,,UZ,
 Vanuatu,,,,,,,,,,,VU,
-"Venezuela, Bolivarian Republic of",Venezuela,"Venezuela, RB",venezuela (bolivarian republic of),,,,,,,,VE,
+"Venezuela, Bolivarian Republic of",Venezuela,"Venezuela, RB",venezuela (bolivarian republic of),"Venezuela, Republica Bolivariana de",,,,,,,VE,
 Viet Nam,Vietnam,,,,,,,,,,VN,
 "Virgin Islands, British",,,,,,,,,,,VG,
 "Virgin Islands, U.S.",,Virgin Islands (U.S.),,,,,,,,,VI,
 Wallis and Futuna,,,,,,,,,,,WF,
 Western Sahara,,,,,,,,,,,EH,
-Yemen,Republic of Yemen,"Yemen, Rep.",Yemen (North Yemen),"Yemen, Rep",,,,,,,YE,
+Yemen,Republic of Yemen,"Yemen, Rep.",Yemen (North Yemen),"Yemen, Rep","Yemen, Republic of",,,,,,YE,
 Zambia,,,,,,,,,,,ZM,
 Zimbabwe,,,,,,,,,,,ZW,
 Kosovo,,,,,,,,,,,XK,
